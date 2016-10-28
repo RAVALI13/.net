@@ -1,0 +1,12 @@
+c:\users\ravali nallamasu\documents\visual studio 2013\Projects\Asg2-rxn152730\Asg2-rxn152730\bin\Debug\Asg2-rxn152730.exe.config
+C:\Users\Ravali Nallamasu\Documents\Visual Studio 2013\Projects\Asg2-rxn152730\Asg2-rxn152730\bin\Debug\Asg2-rxn152730.exe
+C:\Users\Ravali Nallamasu\Documents\Visual Studio 2013\Projects\Asg2-rxn152730\Asg2-rxn152730\bin\Debug\Asg2-rxn152730.pdb
+C:\Users\Ravali Nallamasu\Documents\Visual Studio 2013\Projects\Asg2-rxn152730\Asg2-rxn152730\obj\Debug\Asg2-rxn152730.csprojResolveAssemblyReference.cache
+C:\Users\Ravali Nallamasu\Documents\Visual Studio 2013\Projects\Asg2-rxn152730\Asg2-rxn152730\obj\Debug\Asg2_rxn152730.Form1.resources
+C:\Users\Ravali Nallamasu\Documents\Visual Studio 2013\Projects\Asg2-rxn152730\Asg2-rxn152730\obj\Debug\Asg2_rxn152730.Properties.Resources.resources
+C:\Users\Ravali Nallamasu\Documents\Visual Studio 2013\Projects\Asg2-rxn152730\Asg2-rxn152730\obj\Debug\Asg2-rxn152730.csproj.GenerateResource.Cache
+C:\Users\Ravali Nallamasu\Documents\Visual Studio 2013\Projects\Asg2-rxn152730\Asg2-rxn152730\obj\Debug\Asg2-rxn152730.exe
+C:\Users\Ravali Nallamasu\Documents\Visual Studio 2013\Projects\Asg2-rxn152730\Asg2-rxn152730\obj\Debug\Asg2-rxn152730.pdb
+C:\Users\Ravali Nallamasu\Desktop\Github Projects\Asg2-rxn152730\Asg2-rxn152730\bin\Debug\Asg2-rxn152730.exe.config
+C:\Users\Ravali Nallamasu\Desktop\Github Projects\Asg2-rxn152730\Asg2-rxn152730\obj\Debug\Asg2-rxn152730.exe
+C:\Users\Ravali Nallamasu\Desktop\Github Projects\Asg2-rxn152730\Asg2-rxn152730\obj\Debug\Asg2-rxn152730.pdb
